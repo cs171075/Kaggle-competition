@@ -1,0 +1,6 @@
+cs161075==Syed Muhammad Bilal	
+cs161090==Abdul Jalil
+cs161076==Maaz Bin Mustaqeem
+cs161065==Syed Umair Hussain
+Submission Name: Bulgarian_AIS20
+Note: sir at Kaggle our final score is 95.4% but sir while tuning our model we got 97%..
